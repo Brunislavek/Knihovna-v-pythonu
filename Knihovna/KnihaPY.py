@@ -1,4 +1,4 @@
-Class Kniha:
+class Kniha:
     def __init__(self, nazev:str, autor:str, vydani:int) -> None:
         self.nazev:str = nazev
         self.autor:str = autor
